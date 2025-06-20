@@ -3,4 +3,5 @@ groq
 duckduckgo-search
 python-dotenv
 phi
+gradio
 
